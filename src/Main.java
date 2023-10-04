@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Main{
     public static void main(String args[]){
-        System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+        System.out.println("®”‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢");
         Scanner scanner = new Scanner(System.in);
         String scan = scanner.next();
         int num=Integer.parseInt(scan);
