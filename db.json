@@ -1,0 +1,25 @@
+{
+  "header": [
+    { "align": "left", "displayName": "詳細", "rowSpan": 1, "colSpan": 1 },
+    { "align": "right", "displayName": "納期1", "rowSpan": 1, "colSpan": 1 },
+    { "align": "right", "displayName": "納期2", "rowSpan": 1, "colSpan": 1 },
+    { "align": "right", "displayName": "納期3", "rowSpan": 1, "colSpan": 1 }
+  ],
+  "body": [
+    [
+      { "align": "left", "displayName": "詳細1", "rowSpan": 1, "colSpan": 1 },
+      { "align": "right", "displayName": "A", "rowSpan": 1, "colSpan": 1 },
+      { "align": "right", "displayName": "B", "rowSpan": 1, "colSpan": 1 },
+      { "align": "right", "displayName": "C", "rowSpan": 1, "colSpan": 1 }
+    ],
+    [
+      { "align": "left", "displayName": "詳細2", "rowSpan": 1, "colSpan": 1 },
+      { "align": "right", "displayName": "D", "rowSpan": 1, "colSpan": 1 },
+      { "align": "right", "displayName": "E", "rowSpan": 1, "colSpan": 1 },
+      { "align": "right", "displayName": "F", "rowSpan": 1, "colSpan": 1 }
+    ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
